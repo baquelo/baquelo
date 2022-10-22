@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Slice
+- 🔭 I’m currently working on SCOOCS
 - 🌱 I’m currently learning Docker and tests
 - 👯 I’m looking to collaborate on Quasar
 - 💬 Ask me about PHP, Vue, Symfony, Quasar, SQL, JS...
